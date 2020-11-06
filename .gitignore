@@ -1,0 +1,4 @@
+
+*.csv
+.ipynb_checkpoints/logistic_regression-checkpoint.ipynb
+.ipynb_checkpoints/k-means-checkpoint.ipynb
