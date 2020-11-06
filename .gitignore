@@ -2,3 +2,6 @@
 *.csv
 .ipynb_checkpoints/logistic_regression-checkpoint.ipynb
 .ipynb_checkpoints/k-means-checkpoint.ipynb
+data/drive/My Drive/BERT/ckpt_bert_embedding/checkpoint
+data/drive/My Drive/BERT/ckpt_bert_embedding/ckpt-1.data-00000-of-00001
+data/drive/My Drive/BERT/ckpt_bert_embedding/ckpt-1.index
